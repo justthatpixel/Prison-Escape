@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=player
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "Prison\ Escape"\ application.\ \r\n"Prison\ Escape"\ is\ a\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ Player\ Class\ contains\ \:\ Player's\ Inventory,\ Weight\ of\ Objects,\ \r\n\ This\ Class\ allows\ you\ to\ Add\ or\ Remove\ items\ from\ the\ Player's\ inventory\r\n\ @author\ (Raihan\ Kamal)\r\n\ @version\ (03/12/2021)\r\n
+comment1.params=profile
+comment1.target=player(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ player\r\n\ Constructor\ for\ \ inventoryItems\ and\ weight\r\n
+comment2.params=Object
+comment2.target=void\ addItem(java.lang.String)
+comment3.params=Object
+comment3.target=void\ removeItem(java.lang.String)
+comment4.params=objectDescription\ weight
+comment4.target=void\ addWeight(java.lang.String,\ java.lang.Integer)
+comment5.params=
+comment5.target=int\ inventoryWeight()
+comment6.params=object
+comment6.target=boolean\ hasItemInInventory(java.lang.String)
+numComments=7

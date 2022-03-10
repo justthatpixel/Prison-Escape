@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "Prison\ Escape"\ application.\ \r\n\ "Prison\ Escape"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\ \r\n\ The\ NPC\ class\ holds\ the\ charachter\ information\r\n\ It\ allows\ you\ to\ add\ or\ remove\ items\ from\ the\ player's\ inventory.\r\n\r\n\ @author\ (Raihan\ Kamal)\r\n\ @version\ 2021.12.03\r\n
+comment1.params=description
+comment1.target=NPC(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NPC\r\n
+comment2.params=objectDescription
+comment2.target=void\ addObjectNPC(java.lang.String)
+comment3.params=objectDescription
+comment3.target=void\ removeObjectNPC(java.lang.String)
+comment4.params=
+comment4.target=void\ npcDialogue()
+comment5.params=
+comment5.target=java.lang.String\ NPCdescription()
+comment5.text=\r\n\ Return\ description\ of\ NPC\r\n
+numComments=6
