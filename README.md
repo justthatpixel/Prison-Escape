@@ -1,5 +1,7 @@
 # Prison-Escape
-This is a text based adventure game made in java run on the command line
+
+<h2>Premise</h2>
+This is a text based adventure game made in java run on the command line. You are trapped in Prison and need to work together with other inmates to make an escape!
 
 <h2>Features: </h2>
 
